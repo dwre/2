@@ -12,7 +12,7 @@ class Welcome extends Component {
 
   render() {
     return (
-      <div>
+      <div><!--
         <div>
           v2.0 is a complete rewrite and includes several new features. Here are some highlights:
           <ul className="native">
@@ -24,7 +24,7 @@ class Welcome extends Component {
           </ul>
           <div>
             You can learn more <a href="https://github.com/darkwire/darkwire.io" target="_blank" rel="noopener noreferrer">here</a>.
-          </div>
+          </div>-->
         </div>
         <br />
         <p>Others can join this room using the following URL:</p>
